@@ -1,0 +1,3 @@
+# image_info
+Quoting the picture for convince
+建立一个图床方便行事……
